@@ -1,0 +1,8 @@
+D:\С#\ежедневник 1\bin\Debug\ежедневник 1.exe.config
+D:\С#\ежедневник 1\bin\Debug\ежедневник 1.exe
+D:\С#\ежедневник 1\bin\Debug\ежедневник 1.pdb
+D:\С#\ежедневник 1\obj\Debug\ежедневник 1.csproj.AssemblyReference.cache
+D:\С#\ежедневник 1\obj\Debug\ежедневник 1.csproj.SuggestedBindingRedirects.cache
+D:\С#\ежедневник 1\obj\Debug\ежедневник 1.csproj.CoreCompileInputs.cache
+D:\С#\ежедневник 1\obj\Debug\ежедневник 1.exe
+D:\С#\ежедневник 1\obj\Debug\ежедневник 1.pdb
